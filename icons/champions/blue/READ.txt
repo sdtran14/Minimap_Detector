@@ -1,1 +1,0 @@
-Create Champion Icons for both Red and Blue with the ImageGen.py script
